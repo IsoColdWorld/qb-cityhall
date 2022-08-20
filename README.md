@@ -9,7 +9,7 @@ Add multiple features and redesign on City Services for QB-Core Framework ðŸ‡µðŸ
 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core)
-- [qb-phone](https://github.com/qbcore-framework/qb-phone) - For E-Mail
+- [qs-smartphone](https://github.com/qbcore-framework/qs-smartphone) - For E-Mail
 - [qb-logs](https://github.com/qbcore-framework/qb-logs) - Log System
 
 ## Screenshots
